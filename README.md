@@ -6,11 +6,11 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+The objective is to create a neural network regression model that learns the relationship between input features and continuous target variables, enabling accurate predictions on unseen data from a given dataset.
 
 ## Neural Network Model
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4aa1ed46-43a1-46dd-886f-06d0a9bb8340)
 
 ## DESIGN STEPS
 
